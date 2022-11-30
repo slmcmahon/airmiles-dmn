@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.34">
+<file name="/home/smcmahon/projects/airmiles-dmn/src/test/java/org/kie/kogito/dmn/quarkus/example/TrafficViolationTest.java">
+</file>
+<file name="/home/smcmahon/projects/airmiles-dmn/src/test/java/org/kie/kogito/dmn/quarkus/example/NativeTrafficViolationIT.java">
+</file>
+<file name="/home/smcmahon/projects/airmiles-dmn/src/test/java/testscenario/KogitoScenarioJunitActivatorTest.java">
+</file>
+<file name="/home/smcmahon/projects/airmiles-dmn/src/main/resources/application.properties">
+</file>
+<file name="/home/smcmahon/projects/airmiles-dmn/src/test/resources/application.properties">
+</file>
+</checkstyle>

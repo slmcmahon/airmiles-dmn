@@ -1,0 +1,3 @@
+org/kie/kogito/dmn/quarkus/example/NativeTrafficViolationIT.class
+org/kie/kogito/dmn/quarkus/example/TrafficViolationTest.class
+testscenario/KogitoScenarioJunitActivatorTest.class
